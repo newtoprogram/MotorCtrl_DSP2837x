@@ -4,4 +4,4 @@
 #选用c/c++ 17混合编程
 
 
-![速度环bode图]
+![速度环bode图](![image](https://github.com/user-attachments/assets/44c6e92f-6e6a-431f-b36c-037a2df9ebd0))
