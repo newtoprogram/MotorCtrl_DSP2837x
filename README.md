@@ -4,6 +4,7 @@
 #选用c/c++ 17混合编程
 
 
+## 上位机(python)
 ### FFT plot
 ![实时曲线图&FFT](real_time_wave_fft.PNG)
 
